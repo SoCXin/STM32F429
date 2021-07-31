@@ -1,0 +1,34 @@
+{
+    "type":"MCU",
+    "name":"STM32F429",
+    "title": "ST STM32F429 MCU",
+    "description":"ST Cortex-M4 MCU",
+    "Core": {
+        "num": 1,
+        "type":"Cortex-M4",
+        "Freq":180,
+        "DMIPS": 225,
+        "CoreMark": 608
+    },
+    "manufacturer": {
+        "vendor":"ST",
+        "homepage":"https://www.st.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SoCXin/STM32F429.git"
+    },
+    "version":"1.0.0",
+    "series":["STM32F429","STM32F427","STM32F439","STM32F437"],
+    "package":["LQFP144","LQFP100","LQFP64","LQFP48","QFN36"],
+    "peripheral": ["ADC","UART","I2C","SPI","PWM"],
+    "keywords": [
+        "dev-platform",
+        "ARM",
+        "Cortex-M",
+        "STMicroelectronics",
+        "STM32",
+        "MAC10/100","DAC","SDIO","CAN","I2C","RTC","SPI",
+        "3.6V","1.8V"
+    ]
+}
