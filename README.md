@@ -3,11 +3,11 @@
 [![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
 * [ST](https://www.st.com/zh/): [Cortex-M4](https://github.com/SoCXin/Cortex)
-* [L5R5](https://github.com/SoCXin/Level): 180 MHz (225DMIPS/608CoreMark)
+* [L5R6](https://github.com/SoCXin/Level): 180 MHz (225DMIPS/608CoreMark)
 
 ## [简介](https://github.com/SoCXin/STM32F429/wiki)
 
-[![sites](docs/STM32F429.png)](https://www.st.com/content/st_com/zh/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-high-performance-mcus/stm32f4-series/stm32f429-439/stm32f429zg.html)
+[![sites](docs/STM32F429.png)](https://my.st.com/content/my_st_com/zh/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-high-performance-mcus/stm32f4-series/stm32f429-439/stm32f429zg.html)
 
 ### 关键特性
 
@@ -23,7 +23,7 @@
 
 ### [选型建议](https://github.com/SoCXin)
 
-与[STM32F429](https://github.com/SoCXin/STM32F429)拥有相似配置的STM32F427在参数规格上有下降，资源丰富度也不及前者，就性价比而言需要综合市场因素进行评估。
+与[STM32F429](https://github.com/SoCXin/STM32F429) 拥有相似配置的STM32F427在参数规格上有下降，资源丰富度也不及前者，就性价比而言需要综合市场因素进行评估。
 
 #### 封装规格
 
@@ -31,13 +31,9 @@
 * LQFP144 (20×20mm)
 * LQFP176 (10×10mm)
 
-[STM32F4系列](https://www.st.com/zh/microcontrollers-microprocessors/stm32f4-series.html)与[STM32F1系列](https://www.st.com/zh/microcontrollers-microprocessors/stm32f1-series.html)外设兼容性：
-
-[![sites](docs/F1VSF4.jpg)](http://www.elecfans.com/d/1153505.html)
-
 ### 相关开发板
 
-[![sites](docs/B.jpg)](https://item.taobao.com/item.htm?spm=a230r.1.14.26.4a7b590aNYyHg2&id=560814289385&ns=1&abbucket=19#detail)
+[![sites](docs/B.jpg)](https://detail.tmall.com/item.htm?id=619718732231&spm=a1z09.2.0.0.4cb32e8d0hT0C6&_u=vgas3eu05ed)
 
 #### 高完成度开源项目
 
