@@ -20,6 +20,7 @@
 * [参考资源](src/)
 * [参考文档](docs/)
 * [参考工程](project/)
+* [入门教程](https://docs.soc.xin/STM32F429)
 
 ### [选型建议](https://github.com/SoCXin)
 
@@ -35,7 +36,7 @@
 
 [![sites](docs/B.jpg)](https://detail.tmall.com/item.htm?id=619718732231&spm=a1z09.2.0.0.4cb32e8d0hT0C6&_u=vgas3eu05ed)
 
-#### 高完成度开源项目
+#### 高可用度开源项目
 
 * [Arduino_Core_STM32](https://github.com/stm32duino/Arduino_Core_STM32)
 * [STM32CubeF4](https://github.com/STMicroelectronics/STM32CubeF4)
